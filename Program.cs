@@ -2,8 +2,8 @@
 {
     public class Persona
     {
-        protected string nombres, apellidos;
-        protected int edad;
+        public string nombres, apellidos;
+        public int edad;
         public Persona(string nombres, string apellidos, int edad)
         {
             this.nombres = nombres;
