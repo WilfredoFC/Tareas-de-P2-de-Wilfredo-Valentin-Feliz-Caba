@@ -106,7 +106,7 @@
 
     public class Curso
     {
-        string nombre;
+        public string nombre;
         public List <Clase> clases;
         public List<string> recuentoClases;
         public List<string> recuentoEjercicios;
