@@ -1,3 +1,6 @@
+//Estaban divididas en archivos, pero con el fin de simplificar, 
+//lo metí todo en un sólo archivo.
+
 namespace Tarea1
 {
     public abstract class Persona
